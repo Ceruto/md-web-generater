@@ -20,7 +20,7 @@
 
 ---
 
-## 如需手动，则安装以下几个依赖J
+## 如需手动，则安装以下几个依赖
 
 > 安装 grunt-md2html （https://github.com/bylexus/grunt-md2html）
 
