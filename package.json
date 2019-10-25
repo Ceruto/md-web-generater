@@ -1,0 +1,22 @@
+{
+  "name": "datacenter-doc",
+  "version": "1.0.0",
+  "description": "关于数据中心（DataCenter）算法文档的说明",
+  "main": "index.js",
+  "dependencies": {
+    "fix": "^0.0.6",
+    "github-markdown-css": "^3.0.1",
+    "highlight": "^0.2.4",
+    "highlightjs-line-numbers.js": "^2.7.0",
+    "node-md2html": "^0.1.2"
+  },
+  "devDependencies": {
+    "grunt": "^1.0.4",
+    "grunt-md2html": "^0.3.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "wangxiujin",
+  "license": "ISC"
+}
