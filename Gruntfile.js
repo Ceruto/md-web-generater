@@ -4,7 +4,11 @@ module.exports = function(grunt){
             multiple_files: {
             options: {
                 layout:"html/default-template.html",
-                
+                highlightjs: {
+                    enabled: true,
+                    style: 'paraiso.dark',
+                    compressStyle: true
+                  }
             },
             files: [{
                 expand: true,
